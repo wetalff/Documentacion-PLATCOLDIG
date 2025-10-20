@@ -90,9 +90,9 @@ Se completó el informe académico en formato formal y digital.
 
 ### 4. Conclusiones del Proceso
 
-La documentación en formato Markdown facilita la organización y legibilidad del proceso.
-Git y GitHub son herramientas esenciales para el trabajo colaborativo y la trazabilidad de proyectos.
-La práctica permitió comprender la diferencia entre la configuración local (Git).
+La documentación en formato Markdown facilita la organización y mejora la legibilidad del proceso. Git y GitHub son herramientas esenciales para el trabajo colaborativo y la trazabilidad de proyectos.
+Durante la práctica, se comprendió la diferencia entre la configuración local (Git) y el trabajo en línea (GitHub).
+Además, se desarrollaron habilidades técnicas y de documentación profesional, útiles para proyectos futuros.
 Se desarrollaron habilidades técnicas y de documentación profesional, útiles para proyectos futuros.
 4. Verificamos la instalación con:
    ```bash
